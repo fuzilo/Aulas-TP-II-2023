@@ -1,0 +1,15 @@
+1. Construa um programa que leia 2 números reais informados pelo usuário. 
+Ao fim, o programa deve calcular e imprimir: 
+a soma dos dois valores 
+b. o produto entre eles
+
+
+2. Implemente um programa que converta o valor de uma velocidade média em km/h para m/s. Para isso, o usuário deve informar o valor da velocidade média. Sabe-se que o fator utilizado para essa conversão é 3,6.
+
+
+3. Uma imobiliária paga aos seus corretores um salário base de R$ 1.500,00. Além disso, uma comissão de R$ 200,00 por cada imóvel vendido e 5% do valor de cada venda. 
+
+Construa um programa que solicite o nome do corretor, a quantidade de imóveis vendidos e o valor total de suas vendas. Ao fim, o programa deve calcular e escrever o salário final do corretor de imóveis.
+
+
+4. Construa um programa que receba do usuário o valor do salário mínimo atual. Na sequência, o programa deve solicitar que o usuário informe o valor do seu salário mensal. Ao fim, o programa deve calcular a quantidade de salários mínimos recebidos pelo usuário. 

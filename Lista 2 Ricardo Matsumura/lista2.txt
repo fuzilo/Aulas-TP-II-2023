@@ -1,0 +1,37 @@
+1 - Escreva um programa que solicite ao usuário a estatura de 3 pessoas. Ao fim, o programa deve imprimir as estaturas em ordem decrescente. 
+
+2 - Construa um programa que solicite ao usuário dois números positivos. Em seguida, o programa deve apresentar o seguinte menu.
+
+	1  Média ponderada, com pesos 2 e 3, respectivamente
+ 	2. Quadrado da soma dos 2 números 
+	3. Cubo do menor número Escolha uma opção:
+
+De acordo com a opção informada, o programa deve calcular a operação apresentada no menu. Se a opção escolhida for inválida, o programa deve mostrar a mensagem “Opção inválida” e ser encerrado. 
+
+3. Construa um programa que receba um número inteiro positivo informado pelo usuário. Caso ele seja par, o programa deve calcular o seu quadrado. Mas, se ele for ímpar, deve ser calculado o seu cubo. Ao fim, o programa deve imprimir o valor calculado.
+
+4. Uma empresa, que presta serviço à companhia de energia elétrica do estado, necessita de um programa que auxilie os seus eletricistas no cálculo das principais grandezas da Eletricidade que são Tensão, Resistência e Corrente. Sabe-se que U=Ri, onde, U é a Tensão (em V), R é a Resistência (em Ώ) e i a Corrente (em A). 
+
+Você foi contratado(a) pela empresa para atender a essa solicitação. Construa um programa que apresente o seguinte menu:
+
+**************************** CÁLCULO DE GRANDEZAS ELÉTRICAS **********
+Tensão (em Volt)
+ 2. Resistência (em Ohm) 
+3. Corrente (em Ampére)
+******************* ************************************************
+Qual grandeza deseja calcular? Em seguida, o programa deve solicitar que o eletricista informe o valor das outras duas grandezas para realizar o cálculo. 
+Quando o eletricista escolher:
+ a. Tensão, o programa deve solicitar que ele informe os valores da Resistência e da Corrente 
+b. Resistência, o programa deve solicitar que ele informe os valores da Tensão e da Corrente
+ c. Corrente, o programa deve solicitar que ele informe os valores da Tensão e da Resistência 
+Por fim, o programa deve calcular e apresentar o valor encontrado para a grandeza escolhida.
+
+
+5. Crie um programa que solicite ao usuário a informação de 3 estaturas. Caso existam estaturas iguais, o programa deve apresentar a mensagem “Há, pelo menos, 2 pessoas com a mesma estatura”. Caso contrário, o programa deve informar a maior estatura.
+
+6. Agora, você foi convidado a resolver o seguinte problema: uma loja de roupas está vendendo camisas básicas com descontos, mas seus funcionários têm dificuldades no cálculo do valor final a ser cobrado. Por isso, seu Tanaka, dono da loja, convidou você para criar um programa para calcular o preço final a partir do número de camisas. Seu Tanaka definiu as seguintes regras de desconto: 
+• Até 5 camisas, desconto de 3%
+ • Acima de 5 camisas e até 10 camisas, desconto de 5%; e 
+• Acima de 10 camisas, desconto de 7%. 
+calcule e imprima o valor a ser pago pelo cliente, sabendo que o preço da camisa é R$ 12,50
+
