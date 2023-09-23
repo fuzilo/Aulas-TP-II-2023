@@ -1,5 +1,5 @@
-valor1 = float(input("Digite um numero real"))
-valor2 = float(input("Digite um numero real"))
+valor1 = float(input("Digite um numero real\n"))
+valor2 = float(input("Digite um numero real\n"))
 
 print("A soma dos dois valores é: " ,valor1+valor2)
 

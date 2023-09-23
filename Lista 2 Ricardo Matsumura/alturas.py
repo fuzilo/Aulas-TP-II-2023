@@ -1,6 +1,6 @@
-pessoa1 = float(input("Digite a altura de uma pessoa"))
-pessoa2 = float(input("Digite a altura de outra pessoa"))
-pessoa3 = float(input("Digite a altura de mais uma pessoa"))
+pessoa1 = float(input("Digite a altura de uma pessoa\n"))
+pessoa2 = float(input("Digite a altura de outra pessoa\n"))
+pessoa3 = float(input("Digite a altura de mais uma pessoa\n"))
 
 ## alto, medio, baixo
 

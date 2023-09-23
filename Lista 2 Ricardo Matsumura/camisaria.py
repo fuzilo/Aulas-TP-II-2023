@@ -1,6 +1,6 @@
-print("Programa de cálculo de Descontos de vendas")
+print("Programa de cálculo de Descontos de vendas\n")
 
-qtd = float(input("Digite a quantidade de peças vendidas"))
+qtd = float(input("Digite a quantidade de peças vendidas\n"))
 valor = 12.5
 
 if qtd > 0 and qtd <=5:

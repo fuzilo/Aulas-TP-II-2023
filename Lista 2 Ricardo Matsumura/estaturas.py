@@ -1,8 +1,8 @@
 print("Usuário, insira a medida de estatura de 3 pessoas:")
 
-pessoa1=float(input("Estatura da primeira pessoa"))
-pessoa2=float(input("Estatura da segunda pessoa"))
-pessoa3=float(input("Estatura da terceira pessoa"))
+pessoa1=float(input("Estatura da primeira pessoa\n"))
+pessoa2=float(input("Estatura da segunda pessoa\n"))
+pessoa3=float(input("Estatura da terceira pessoa\n"))
 
 if pessoa1 == pessoa2 and pessoa1==pessoa3:
     print("“Há, pelo menos, 2 pessoas com a mesma estatura”")

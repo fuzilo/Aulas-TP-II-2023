@@ -1,4 +1,4 @@
-velocidade_km = float(input("Digite a velocidade média (em km/h)"))
+velocidade_km = float(input("Digite a velocidade média (em km/h)\n"))
 
 velocidade_ms = velocidade_km / 3.6
 
