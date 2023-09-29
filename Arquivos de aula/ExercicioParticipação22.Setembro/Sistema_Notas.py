@@ -8,6 +8,13 @@
 
 tamanho = int(input("Digite q quantidade de alunos a serem avaliados\n"))
 vetor=[]
+gabarito=[]
+folhaResp=[]
 #fazer iteração pra criar gabarito
-gabarito=[a,a,a,a,a,a,a,a,a,a]
+
+for i in range(10):
+    gaba= str(input(f"Digite a resposta da {i+1}ª Questão"))
+    gabarito.append(gaba)
+
+for j in range
 
