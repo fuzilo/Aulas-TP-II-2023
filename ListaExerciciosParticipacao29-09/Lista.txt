@@ -1,0 +1,3 @@
+1. Construa um programa no qual um usuário informe a sua estatura em metros e o programa converta-a para centímetros.
+2. Construa um programa que receba do usuário a variação do deslocamento de um objeto (em metros) e a variação do tempo percorrido (em segundo). Ao fim, o programa deve calcular a velocidade média, em m/s, do objeto.
+3. Construa um programa para calcular a área de convivência de uma escola cujo formato é circular. Para isso, o usuário deve informar o valor do raio.

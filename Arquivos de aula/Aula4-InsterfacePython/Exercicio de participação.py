@@ -25,6 +25,7 @@ def cadastrar():
     lbl_nome = tk.Label(tela, text=txt_nome.get())
     lbl_nome.pack()
 
+
 btn_botao = tk.Button(tela, text="Cadastrar", command=cadastrar)
 btn_botao.pack()
 
