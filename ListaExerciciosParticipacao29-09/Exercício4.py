@@ -1,10 +1,3 @@
-
-# base = float(input("Base do Triângulo (cm):"))
-# alt = float(input("Altura do triângulo (cm):"))
-# area = (base*alt)/2
-# print(f"Área = {area:.2f} cm²")
-
-
 import tkinter as tk
 
 
